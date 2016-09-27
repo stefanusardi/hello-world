@@ -1,2 +1,5 @@
 # hello-world
-just a respository
+
+hello humans,
+
+my name is ready, im interested in web programming especially php languages, but im still new.
